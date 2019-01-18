@@ -1,0 +1,64 @@
+    #navigation {
+    width: 100%;
+    background-color: #333333;
+    height: 60px;
+    text-align: right;
+    margin-top: -10px;
+    margin-left: -10px; 
+    border-right: solid 18px #333333;
+}
+#navigation img{
+    display: block;
+    margin-left: 10%;
+    height: 40px;
+    padding-top: 10px;
+    float: left;
+}
+body h1, h2{
+    font-family: 'Roboto', sans-serif; 
+}
+body p, dt, dd{
+    font-family: Courier;
+}
+h1{
+    font-size: 60px;
+    padding: 60px 0px 20px;
+}
+h2{
+    font-size:30px;
+}
+#separator p{
+    text-align: center;
+    padding: 40px 0px 30px;
+    font-weight: bold;
+    font-size: 20px;
+}
+#Technology-wiki h2{
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+a{
+    color: #ff0099;
+    padding:10px;
+    font-size: 20px;
+    position: relative;
+    top: 25%;
+    bottom: 25%;
+    transform: translateY(-50%);
+}
+#header h2{
+    color: #ff0099
+}
+dt{
+    font-size: 25px; 
+}
+dd{
+    font-size: 20px;
+}
+#header, #Technology-wiki{
+    margin-left: 10%;
+    margin-right: 10%;
+}
